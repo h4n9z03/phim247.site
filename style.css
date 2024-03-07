@@ -32,6 +32,7 @@ body {
     display: flex;
     height: 100%;
     align-items: center;
+    margin-left: ;
 }
 .main-menu li{
     position: relative;
@@ -42,7 +43,6 @@ body {
     display: block;
     font-size: 15px;
     text-decoration: none;
-    text-transform: uppercase;
 }
 .form-search {
     position: relative;
